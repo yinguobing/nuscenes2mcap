@@ -16,6 +16,7 @@ dependencies = [
     "protobuf==7.35.0",
     "foxglove-sdk==0.24.0",
     "pypcd @ git+https://github.com/DanielPollithy/pypcd.git@88ab8c98ab81dd620bf4b22d965b37457aab78f8",
+    "rosbags==0.11.2",
 ]
 
 [dependency-groups]
